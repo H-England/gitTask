@@ -1,1 +1,2 @@
-console.log("Git is Awesome")
+let word = input("Input Something")
+console.log(word)
